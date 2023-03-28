@@ -1,0 +1,23 @@
+{
+  "courier":"Masha",
+  "id":12,
+  "address":{
+    "city":"Moscow",
+    "street":"Tverskaya",
+    "number":122,
+    "messages":[
+      "code_123",
+      "silent_mode"
+    ]
+  },
+  "products":[
+    {
+      "goods":"apple",
+      "weight":1.2
+    },
+    {
+      "goods":"banana",
+      "weight":2.8
+    }
+  ]
+}
